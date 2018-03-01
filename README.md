@@ -1,4 +1,4 @@
-# ATShareStudy
+# ShareSdkExample
 Android使用ShareSDK实现分享
 
 # ScreenShots
